@@ -44,4 +44,5 @@ async def on_member_join(member):
 
 
 # CHẠY BOT
-bot.run("MTQzMzY2MjQwMzYxODU0MTU5MQ.GGYPvv.JkP1ctTjDJGyV28Rl7ev1pvREVqpnRpc5UYPo0")
+bot.run("MTQzMzY2MjQwMzYxODU0MTU5MQ.GWb_uC.3s2_063HfE2fiCMuS0sugX5i6w0OD6vVHk2Qrk")
+
